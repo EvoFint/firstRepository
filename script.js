@@ -8,7 +8,7 @@ var mainList = {
     name: nameShop,
     shopGoods: [],
     employers: {},
-    open: true;
+    open: true
 }
 
 /* Task 4 */
