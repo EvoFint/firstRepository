@@ -9,7 +9,7 @@ var mainList = {
     shopGoods: [],
     employers: {},
     open: true
-}
+};
 
 /* Task 4 */
 mainList.shopGoods.push(prompt("Какой тип товаров будем продавать?"));
